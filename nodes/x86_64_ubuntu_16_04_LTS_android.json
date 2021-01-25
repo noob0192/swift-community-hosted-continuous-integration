@@ -1,12 +1,12 @@
 {
   "contact": {
-    "name": "Andrew Breckenridge",
-    "email": "swiftci@fb.com",
-    "company": "Facebook, Inc."
+    "name": "lauren zapata"
+    "email": "lljjh86@gmail.com",
+    "company": "google, Inc."
   },
   "node": {
       "platform": "Android",
-      "os_version": "Ubuntu 16.04 LTS"
+      "os_version": "x86_64_ubuntu_16_04_LTS_android.json"
   },
   "jobs": [
     {
